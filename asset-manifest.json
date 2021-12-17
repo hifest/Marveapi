@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Marvelapi/static/css/main.af6034a7.chunk.css",
+    "main.js": "/Marvelapi/static/js/main.37d70e58.chunk.js",
+    "main.js.map": "/Marvelapi/static/js/main.37d70e58.chunk.js.map",
+    "runtime-main.js": "/Marvelapi/static/js/runtime-main.62016f27.js",
+    "runtime-main.js.map": "/Marvelapi/static/js/runtime-main.62016f27.js.map",
+    "static/js/2.cd92528f.chunk.js": "/Marvelapi/static/js/2.cd92528f.chunk.js",
+    "static/js/2.cd92528f.chunk.js.map": "/Marvelapi/static/js/2.cd92528f.chunk.js.map",
+    "static/css/3.18e2f0da.chunk.css": "/Marvelapi/static/css/3.18e2f0da.chunk.css",
+    "static/js/3.208dde78.chunk.js": "/Marvelapi/static/js/3.208dde78.chunk.js",
+    "static/js/3.208dde78.chunk.js.map": "/Marvelapi/static/js/3.208dde78.chunk.js.map",
+    "static/css/4.a9a91d91.chunk.css": "/Marvelapi/static/css/4.a9a91d91.chunk.css",
+    "static/js/4.54fc64b4.chunk.js": "/Marvelapi/static/js/4.54fc64b4.chunk.js",
+    "static/js/4.54fc64b4.chunk.js.map": "/Marvelapi/static/js/4.54fc64b4.chunk.js.map",
+    "static/css/5.1efd6594.chunk.css": "/Marvelapi/static/css/5.1efd6594.chunk.css",
+    "static/js/5.54afff76.chunk.js": "/Marvelapi/static/js/5.54afff76.chunk.js",
+    "static/js/5.54afff76.chunk.js.map": "/Marvelapi/static/js/5.54afff76.chunk.js.map",
+    "static/js/6.cfb23640.chunk.js": "/Marvelapi/static/js/6.cfb23640.chunk.js",
+    "static/js/6.cfb23640.chunk.js.map": "/Marvelapi/static/js/6.cfb23640.chunk.js.map",
+    "static/js/7.f8ddf607.chunk.js": "/Marvelapi/static/js/7.f8ddf607.chunk.js",
+    "static/js/7.f8ddf607.chunk.js.map": "/Marvelapi/static/js/7.f8ddf607.chunk.js.map",
+    "index.html": "/Marvelapi/index.html",
+    "static/css/3.18e2f0da.chunk.css.map": "/Marvelapi/static/css/3.18e2f0da.chunk.css.map",
+    "static/css/4.a9a91d91.chunk.css.map": "/Marvelapi/static/css/4.a9a91d91.chunk.css.map",
+    "static/css/5.1efd6594.chunk.css.map": "/Marvelapi/static/css/5.1efd6594.chunk.css.map",
+    "static/css/main.af6034a7.chunk.css.map": "/Marvelapi/static/css/main.af6034a7.chunk.css.map",
+    "static/js/2.cd92528f.chunk.js.LICENSE.txt": "/Marvelapi/static/js/2.cd92528f.chunk.js.LICENSE.txt",
+    "static/media/Avengers.4065c8f9.png": "/Marvelapi/static/media/Avengers.4065c8f9.png",
+    "static/media/Avengers_logo.9eaf2193.png": "/Marvelapi/static/media/Avengers_logo.9eaf2193.png",
+    "static/media/error.42292aa1.gif": "/Marvelapi/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/Marvelapi/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/Marvelapi/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62016f27.js",
+    "static/js/2.cd92528f.chunk.js",
+    "static/css/main.af6034a7.chunk.css",
+    "static/js/main.37d70e58.chunk.js"
+  ]
+}
